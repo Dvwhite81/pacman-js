@@ -1,7 +1,7 @@
 {
   "lang": "en-EN",
-  "name": "Checkers",
-  "short_name": "Checkers",
+  "name": "Pacman",
+  "short_name": "Pacman",
   "description": "Start a Vanilla JavaScript App, SPA, landing page or website using Webpack, Babel, Core-JS, SASS / SCSS.",
   "start_url": "/",
   "display": "standalone",
